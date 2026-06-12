@@ -16,11 +16,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: nayeem-94
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
