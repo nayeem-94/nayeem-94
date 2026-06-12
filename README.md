@@ -127,44 +127,10 @@
 
 # 🐍 Snake Contribution Graph
 
-> Create `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: nayeem-94
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then add:
-
-```md
 <p align="center">
-<img src="https://raw.githubusercontent.com/nayeem-94/nayeem-94/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/nayeem-94/nayeem-94/output/github-contribution-grid-snake.svg"/>
 </p>
-```
 
----
 
 # 🎯 Current Focus
 
