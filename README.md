@@ -142,14 +142,6 @@ AI-powered application for generating notes and quizzes from study materials.
 
 </div>
 
----
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nayeem-94&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" />
-
-</div>
 
 ---
 
