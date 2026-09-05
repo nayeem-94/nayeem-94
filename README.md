@@ -4,7 +4,7 @@
 
 ### Competitive Programmer • CSE Student • Software Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;C%2B%2B+Developer;React+Learner;AI+%26+Machine+Learning+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;C%2B%2B+Developer;React+Learner;AIML+%26+Machine+Learning;Software+Engineer" />
 
 <img src="https://komarev.com/ghpvc/?username=nayeem-94&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
@@ -35,18 +35,15 @@ AI-powered application for generating notes and quizzes from study materials.
 
 🎓 CSE Student at **Dhaka City College**
 
-💻 Passionate about **Software Development and Problem Solving**
+💻 Passionate about **Software Development, Problem Solving & Competitive Programming**
 
-🌱 Currently learning:
+🏆 Solved **1400+ programming problems** across different online judges
 
-- React
-- Artificial Intelligence & Machine Learning
-- Advanced Algorithms
-- Data Structures
+🌱 Currently learning **React, Artificial Intelligence & Machine Learning**
 
-🔥 Competitive Programmer
+🧠 Strengthening my **Data Structures & Algorithms** skills
 
-🎯 Goal: Become a Software Engineer and build impactful products
+🚀 Aspiring **Software Engineer** focused on building impactful products
 
 ---
 
@@ -118,7 +115,7 @@ AI-powered application for generating notes and quizzes from study materials.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-94&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
