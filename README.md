@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mostafizur Rahman Nayeem
 
-### Competitive Programmer • CSE Student • Software Developer • AI Enthusiast
+### Competitive Programmer • CSE Student • Software Developer • AI ML
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Software+Engineer;React+Learner;AIML+%26+Machine+Learning;" />
 
@@ -143,7 +143,6 @@ AI-powered application for generating notes and quizzes from study materials.
 </div>
 
 ---
-
 # 🏆 GitHub Trophies
 
 <div align="center">
