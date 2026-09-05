@@ -12,6 +12,25 @@
 
 ---
 
+# 🚀 Featured Projects
+
+### 🌱 FairChain BD
+AI-powered supply chain monitoring and management platform.
+
+**Tech:** React, Django REST Framework, PostgreSQL, AI/ML
+
+### 🍱 FoodNest
+Full-stack food-related web application.
+
+**Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase
+
+### 📝 AI Notes & Quiz Generator
+AI-powered application for generating notes and quizzes from study materials.
+
+**Tech:** Python, Streamlit, Gemini API
+
+---
+
 # 💫 About Me
 
 🎓 CSE Student at **Dhaka City College**
