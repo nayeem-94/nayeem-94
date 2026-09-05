@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mostafizur Rahman Nayeem
 
-### Competitive Programmer • CSE Student • Software Developer • AI ML
+### Competitive Programmer • Software Developer • AI & ML Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Software+Engineer;React+Learner;AIML+%26+Machine+Learning;" />
 
@@ -51,9 +51,13 @@ AI-powered application for generating notes and quizzes from study materials.
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1206+-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Nayeem_11720)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1206%2B-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Nayeem_11720)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/nayeem_94)
-[![C++](https://img.shields.io/badge/C++-Primary_Language-blue?style=for-the-badge&logo=cplusplus)]()
+[![AtCoder](https://img.shields.io/badge/AtCoder-506%2B-brown?style=for-the-badge&logo=atcoder)](https://atcoder.jp/users/nayeem_94)
+
+[![ICPC](https://img.shields.io/badge/ICPC-Regional%20Participant-orange?style=for-the-badge)]()
+[![IUPC](https://img.shields.io/badge/IUPC-10%2B%20Contests-purple?style=for-the-badge)]()
+[![Problems](https://img.shields.io/badge/Problems%20Solved-1400%2B-success?style=for-the-badge)]()
 
 </div>
 
