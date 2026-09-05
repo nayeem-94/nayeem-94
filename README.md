@@ -4,7 +4,7 @@
 
 ### Competitive Programmer • CSE Student • Software Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;C%2B%2B+Developer;React+Learner;AIML+%26+Machine+Learning;Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Software+Engineer;React+Learner;AIML+%26+Machine+Learning;" />
 
 <img src="https://komarev.com/ghpvc/?username=nayeem-94&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
@@ -57,17 +57,28 @@ AI-powered application for generating notes and quizzes from study materials.
 
 </div>
 
-### 📚 Topics
+### 📚 Competitive Programming Topics
 
 - Dynamic Programming
-- Binary Search
-- Greedy Algorithms
 - Graph Theory
-- Segment Trees
+- Greedy Algorithms
+- Binary Search
+- Segment Tree
 - Number Theory
 - Bit Manipulation
-- Prefix Sum
 - Binary Lifting
+- Prefix Sum
+
+### 🤖 Machine Learning
+
+- Linear Regression
+- Multiple Linear Regression
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- NumPy
+- Pandas
+- Scikit-learn
 
 ---
 
@@ -82,16 +93,28 @@ AI-powered application for generating notes and quizzes from study materials.
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
-### Tools & Technologies
+### 🤖 AI & Machine Learning
+
+<p>
+<b>NumPy • Pandas • Scikit-learn</b>
+</p>
+
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -125,7 +148,7 @@ AI-powered application for generating notes and quizzes from study materials.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nayeem-94&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nayeem-94&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" />
 
 </div>
 
@@ -135,7 +158,7 @@ AI-powered application for generating notes and quizzes from study materials.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nayeem-94&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nayeem-94&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -144,9 +167,8 @@ AI-powered application for generating notes and quizzes from study materials.
 # 🐍 Snake Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nayeem-94/nayeem-94/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/nayeem-94/nayeem-94/output/github-contribution-grid-snake.svg" />
 </p>
-
 
 # 🎯 Current Focus
 
@@ -159,10 +181,12 @@ while(!success){
 }
 ```
 
-- 📚 Mastering Data Structures & Algorithms
-- ⚛️ Learning React
-- 🤖 Exploring AI & Machine Learning
-- 🚀 Building Full Stack Projects
+### 🌱 Currently Learning
+
+- 📚 Mastering **Data Structures & Algorithms**
+- ⚛️ Learning **React**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🚀 Building **Full-Stack Projects**
 
 ---
 
