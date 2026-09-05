@@ -190,19 +190,22 @@ while(!success){
 <p align="center">
 
 <a href="https://github.com/nayeem-94">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/mostafizur-rahman-nayeem-77a458274/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://codeforces.com/profile/Nayeem_11720">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="48"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/nayeem_94">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="48"/>
 </a>
 
 </p>
